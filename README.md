@@ -21,7 +21,7 @@ Here is the implementation of The Pythagorean theorem to count the distance. The
 
 ![program](/Screenshots/main.JPG?raw=true "main window")
 
-I added **Avarage** button that can be found on the right side of interface. It can estimate Pi number with better aproximety due to counting avarage result from 100 test.
+I added **Avarage** button that can be found on the right side of the interface. It can estimate Pi number with better proximity due to counting the average results from 100 tests.
 
 
 ![program2](/Screenshots/estimation500.JPG?raw=true "program")
