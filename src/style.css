@@ -1,0 +1,26 @@
+Label{
+    -fx-text-fill: white;
+}
+
+.magic_button{
+    -fx-background-color: rgb(101, 19, 166);
+
+    -fx-text-fill: white;
+    -fx-font: 16 robotic;
+    -fx-background-radius: 8 8 0 0;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 10, 0.1, 0, 0);
+}
+
+.magic_button:hover{
+    -fx-background-color: rgb(131, 66, 183);
+}
+
+.magic_button:pressed{
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 5, 0, 0, 0);
+}
+
+.alert-pane{
+    -fx-background-color: black;
+    -fx-padding: 0;
+}
